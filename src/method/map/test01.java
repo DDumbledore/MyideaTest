@@ -39,5 +39,6 @@ public class test01 {
         System.out.println(System.currentTimeMillis());
         /*Student{ID='id01', name='石原里美'}
         Student{ID='id01', name='迪迦'}*/
+
     }
 }
